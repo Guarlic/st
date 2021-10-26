@@ -57,10 +57,10 @@ int main(int argc, char** argv) {
     for (int i = 0; i < 20; i++) printf("\n");
     
     for (int i = 0; i < 20; i++) printf("\t"); printf("****************************\n\n");
-    for (int i = 0; i < 20; i++) printf("\t"); printf("       Name: %s\n", st->name);
-    for (int i = 0; i < 20; i++) printf("\t"); printf("       Grade: %d\n", st->grade);
-    for (int i = 0; i < 20; i++) printf("\t"); printf("       Class: %d\n", st->class);
-    for (int i = 0; i < 20; i++) printf("\t"); printf("       Number: %d\n\n", st->num);
+    for (int i = 0; i < 20; i++) printf("\t"); printf("     Name: %s\n", st->name);
+    for (int i = 0; i < 20; i++) printf("\t"); printf("     Grade: %d\n", st->grade);
+    for (int i = 0; i < 20; i++) printf("\t"); printf("     Class: %d\n", st->class);
+    for (int i = 0; i < 20; i++) printf("\t"); printf("     Number: %d\n\n", st->num);
     for (int i = 0; i < 20; i++) printf("\t"); printf("****************************");
 
     for (int i = 0; i < 20; i++) printf("\n");
